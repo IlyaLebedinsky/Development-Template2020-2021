@@ -13,7 +13,7 @@ Template for developing and testing C++ programs
 ## Update working branch
 ```
  git checkout <your branch>
- git rebase master
+ git rebase master 123
 ```
 ## Build project with cmake
 cmake -G "Visual Studio 15 2017" <path to sourse files>
