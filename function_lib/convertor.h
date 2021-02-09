@@ -11,7 +11,6 @@ struct arabic
 
 class Convertor
 {
-private:
 	roman R;
 	arabic A;
 public:
